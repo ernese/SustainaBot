@@ -35,7 +35,7 @@
 ### 1. Data Pipeline (`src/data_pipeline/`)
 - **Bronze Layer**: Raw data ingestion with schema discovery
 - **Silver Layer**: Data cleaning, transformation, and quality checks
-- **Gold Layer**: Analytics-ready datasets with KPIs and aggregations
+- **Gold Layer**: Analytics-ready datasets 
 
 ### 2. LLM Integration (`src/llm/`)
 - Natural language to SQL translation
