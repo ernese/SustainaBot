@@ -8,7 +8,7 @@
 
 - **Medallion Architecture**: Bronze/Silver/Gold data layers for scalable data processing
 - **LLM Integration**: Azure OpenAI + LangChain for natural language data queries
-- **Automated EDA**: Intelligent exploratory data analysis with statistical insights
+- **Automated EDA**: Intelligent exploratory data analysis
 - **Multi-Source Data**: Government APIs (PSA, DOE), NASA climate data, World Bank indicators
 - **Interactive Analytics**: Streamlit-based dashboard with real-time visualizations
 
