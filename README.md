@@ -29,8 +29,7 @@
 - **Department of Energy (DOE)**: Energy consumption, pricing
 - **NASA**: Climate and weather data
 - **World Bank**: International development indicators
-- **Custom APIs**: Real-time sustainability metrics
-
+  
 ## Key Components
 
 ### 1. Data Pipeline (`src/data_pipeline/`)
